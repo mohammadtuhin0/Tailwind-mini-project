@@ -7,3 +7,14 @@ h2,
 h3{
     font-family: "Bebas Neue", sans-serif;
 }
+
+/* .container{
+    max-width: 1180px;
+    margin: auto;
+} */
+
+.button-liner-gradient{
+    background: linear-gradient(180.00deg,
+    rgba(162,188, 70, 1), 
+    rgba(132.8367919921875, 160.4375, 24.73410415649414, 1) 100%);
+}
